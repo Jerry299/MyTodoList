@@ -1,4 +1,7 @@
 .btn {
-  outline: 1px solid tomato;
-  background-color: #ffffff;
+  background-color: #28165c;
+}
+.btn:hover {
+  background-color: tomato;
+  color: white;
 }

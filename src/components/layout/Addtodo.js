@@ -39,10 +39,9 @@ class Addtodo extends Component {
             />
 
             <input
-              className="form-control mr-2 mt-2 p-2"
+              className="form-control mr-2 mt-2 p-2 btn btn"
               type="submit"
               value="Add TODO"
-              className="btn "
               style={{ flex: "1" }}
             />
           </form>
